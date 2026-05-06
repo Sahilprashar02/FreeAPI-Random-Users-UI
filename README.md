@@ -10,6 +10,9 @@
   ![Status](https://img.shields.io/badge/Status-Completed-success.svg?style=for-the-badge)
 
   **A modern, premium React application displaying random users fetched from FreeAPI.**
+  <br />
+  <br />
+  <a href="https://free-api-random-users-ui-five.vercel.app/"><b>🚀 View Live Project</b></a>
 </div>
 
 ---
